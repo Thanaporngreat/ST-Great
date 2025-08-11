@@ -1,3 +1,17 @@
+#------------------Docker-------------------------------------
+
+เปิด Command Pormpt 
+
+ใช้คำสั่ง gh repo clone https://github.com/Thanaporngreat/ST-Great
+
+ใช้คำสั่ง cd ST-Great 
+
+ใช้คำสั่ง docker compose up -d --build
+
+เมื่อ build เสร็จ cd myapp  เเล้วรัน npx react-native run-android --no-packager เพื่อเปิด mobile emulator 
+
+#------------------Docker-------------------------------------
+
 Copy Log
 
 https://docs.google.com/document/d/1ZILVT6yCX5upiD0YDGM5RXOBOz_wVnKoXbfvZTsJlWk/edit?usp=drive_link
